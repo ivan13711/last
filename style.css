@@ -1,0 +1,53 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: black;
+
+}
+.article{
+  position: absolute;
+  left: 20vw;
+  width: 60vw;
+  height: 80vh;
+  background: white;
+padding: 20px;
+  margin: auto;
+  margin-top: 10vh;
+  font-size: 2vw;
+}
+.nameart1{
+  padding-left: 2vw;
+  position: relative;
+  width: 15vw;
+  height: 20vh;
+  top: -500px;
+  left: -20px;
+  z-index: 1;
+background: white;
+  border-radius: 20%;
+
+}
+.nameart2{
+  padding-left: 2vw;
+  position: relative;
+  width: 15vw;
+  height: 20vh;
+  top: -500px;
+  left: 17vw;
+  z-index: 1;
+background: white;
+  border-radius: 20%;
+
+}
+.nameart3{
+  padding-left: 2vw;
+  position: relative;
+  width: 15vw;
+  height: 20vh;
+  top: -500px;
+  left: 34.3vw;
+  z-index: 1;
+background: white;
+  border-radius: 20%;
+
+}
